@@ -1,0 +1,13 @@
+{
+  "name": "whatever",
+  "private": true,
+  "dependencies": {
+    "Class.js": "git://github.com/deadlyicon/class.js.git",
+    "browserify": "~2.26.0",
+    "mongoose": "~3.6.17",
+    "ender": "~1.1.0",
+    "connect": "~2.8.5",
+    "express": "~3.3.5",
+    "jade": "~0.34.1"
+  }
+}
